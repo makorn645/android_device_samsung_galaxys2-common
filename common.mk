@@ -60,7 +60,8 @@ PRODUCT_PACKAGES := \
     com.android.future.usb.accessory \
     SamsungServiceMode \
     Snap \
-    Email
+    Email \
+    Browser
 
 # Legacy RIL
 PRODUCT_PACKAGES += \
